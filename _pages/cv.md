@@ -55,8 +55,8 @@ Skills
 
 <!-- - I am an avid music enthusiast. I have been playing the piano for 16 years and the guitar for 8 years. My musical preferences predominantly lie in Blues, R&B, Prog-Rock, and Jazz Fusion. Some of my favorite bands are Muse, Radiohead, T-Square, and Led-Zeppelin. Among my favorite musicians are Steve Ray Vaughan, Cory Wong, David Tao, and Khalil Fong. If you share a similar musical taste and have an interest in music production or forming a band, please don't hesitate to reach out to me to explore potential cooperation opportunities. -->
 
-- I've been an amateur guitarist for nine years now. My musical preferences predominantly lie in Blues, Prog-Rock, and Jazz Fusion. Some of my favorite bands are Muse, Radiohead, and T-Square.
-
 - I am actively involved in soccer and typically play in the positions of CM and Winger.
+
+- I've been an amateur guitarist for nine years now. My musical preferences predominantly lie in Blues, Prog-Rock, and Jazz Fusion. Some of my favorite bands are Muse, Radiohead, and T-Square.
 
 - I am an experienced League of Legends player with a personal best rank of Diamond II. I mainly specialize in the Jungle and Support.
