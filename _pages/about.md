@@ -18,6 +18,6 @@ My research interests center around the intersection of AI and systems, with a p
 
 My current work is concentrated on enhancing Kubernetes HPA (Horizontal Pod Autoscaling) through a proactive autoscaling approach. This include building an effective, accurate and efficient AI model for workload forecasting, together with the recommandation of optimal number of pods given predicted workload data. 
 
-If you share an interest in this topic, I welcome you to reach out for potential collaboration opportunities.
+If you're interested in these topics, feel free to reach out so we can explore potential collaboration opportunities.
 
 Email: cs_22_yhy@sjtu.edu.cn
