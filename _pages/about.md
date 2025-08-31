@@ -13,6 +13,7 @@ My research interests center around the intersection of AI and cloud systems, in
 1) AI-augmented Cloud Infrastructure;
 2) Cloud Native AI & MLsys;
 
+Email: cs_22_yhy@sjtu.edu.cn
 
 Education
 ======
