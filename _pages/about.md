@@ -22,13 +22,13 @@ Education
 Work experience
 ======
 * 2025.4 - Present: Software Development Engineer
-  * Xiaohongshu | Cloud Native Platform Department 
+  * Xiaohongshu --- Cloud Native Platform Department 
 
 * 2023.8 - 2025.3: Research & Engineering Intern
-  * ByteDance | Infrastructure Department
+  * ByteDance --- Infrastructure Department
 
 * 2023.2 - 2023.7: Research Intern
-  * Huawei Cloud | Algorithm Innovation Lab
+  * Huawei Cloud --- Algorithm Innovation Lab
  
 ---
 
